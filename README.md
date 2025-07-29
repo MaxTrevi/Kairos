@@ -1,2 +1,0 @@
-# Kairos
-Materiale di Kairos
